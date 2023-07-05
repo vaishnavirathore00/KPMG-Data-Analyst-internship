@@ -1,6 +1,12 @@
 # KPMG-Data-Analyst-internship
+
 Welcome to KPMG Data Analyst Virtual Internship Experience through Forage.
+
+
 ![image](https://github.com/vaishnavirathore00/KPMG-Data-Analyst-internship/assets/86239892/9574594c-4bb7-4f9e-8a84-d473637e1704)
+
+
+
 The internship is divided into 3 main parts/tasks.
 
 TASK - 1
