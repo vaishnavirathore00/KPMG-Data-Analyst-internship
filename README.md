@@ -5,6 +5,9 @@ Welcome to KPMG Data Analyst Virtual Internship Experience through Forage.
 
 [kpmg certificate.pdf](https://github.com/vaishnavirathore00/KPMG-Data-Analyst-internship/files/11957723/kpmg.certificate.pdf)
 
+![kpmg](https://github.com/vaishnavirathore00/KPMG-Data-Analyst-internship/assets/86239892/e2ba5fce-7cc1-4927-85e5-50c41b7e4da1)
+
+
 
 
 
